@@ -1,0 +1,9 @@
+Auto Generated Code Documentation
+=================================
+created on March 29, 2019
+
+@author: Randy Ma
+
+.. automodule:: hw1
+	:members:
+	:undoc-members:
